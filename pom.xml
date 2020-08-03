@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ai.preferred</groupId>
-    <artifactId>DataCrawlingTest</artifactId>
+    <artifactId>SteamBeginnerCrawler</artifactId>
     <version>1.0.1</version>
 
     <properties>
